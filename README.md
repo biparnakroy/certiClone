@@ -1,5 +1,7 @@
 # certiClone : Generate Certificates in bulk
 
+It is an app that takes in a certificate template (image) and a name list (csv) and generates copies for each name in the list.
+
 The app is hosted here : https://certiclone.herokuapp.com/
 
 ## Demo
