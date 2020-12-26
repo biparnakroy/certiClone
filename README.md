@@ -23,7 +23,7 @@ For eg:
 
 Basically we take the image of the Certificate template and use simple image processing to detect horizontal lines (dash left for the name) in a ROI of the Template. This ROI in center part of the image where the names are mostly located in a certificate. So using the location of this line we fill in the name.
 
-- Certificate ROI(Region of Interest)+
+- Certificate ROI(Region of Interest)
 
 ![alt text](assets/temp1roi.png)
 
