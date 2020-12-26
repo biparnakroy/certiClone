@@ -12,6 +12,7 @@ For eg:
 ## Format of name list
 The second column should have the names of the candidates
 For eg:
+
 ![alt text](name_list.png)
 
 ## Working
