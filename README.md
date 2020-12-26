@@ -3,19 +3,19 @@
 The app is hosted here : https://certiclone.herokuapp.com/
 
 ## Demo
-![alt text](ezgif.com-video-to-gif.gif)
+![alt text](assets/ezgif.com-video-to-gif.gif)
 
 ## Fomat of certifictes
 Pretty much any certificate template with a dash in the place of the name will work
 For eg:
 
-![alt text](temp1.png)
+![alt text](assets/temp1.png)
 
 ## Format of name list
 The second column should have the names of the candidates
 For eg:
 
-![alt text](name_list.png)
+![alt text](assets/name_list.png)
 
 ## Working
 
@@ -23,7 +23,7 @@ Basically we take the image of the Certificate template and use simple image pro
 
 - Certificate ROI(Region of Interest)+
 
-![alt text](temp1roi.png)
+![alt text](assets/temp1roi.png)
 
 ## Tech Stack
 
