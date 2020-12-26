@@ -1,5 +1,7 @@
 # certiClone : Generate Certificates in bulk
 
+The app is hosted here : https://certiclone.herokuapp.com/
+
 ## Demo
 ![alt text](ezgif.com-video-to-gif.gif)
 
