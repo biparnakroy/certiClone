@@ -27,6 +27,9 @@ Basically we take the image of the Certificate template and use simple image pro
 
 ![alt text](assets/temp1roi.png)
 
+## Final Output
+![alt text](assets/Arindam_Dey.png)
+
 ## Tech Stack
 
 - OpenCV (Image Processing)
