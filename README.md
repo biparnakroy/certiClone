@@ -23,7 +23,7 @@ For eg:
 
 Basically we take the image of the Certificate template and use simple image processing to detect horizontal lines (dash left for the name) in a ROI of the Template. This ROI in center part of the image where the names are mostly located in a certificate. So using the location of this line we fill in the name.
 
-- Certificate ROI(Region of Interest)+
+- Certificate ROI(Region of Interest)
 
 ![alt text](assets/temp1roi.png)
 
@@ -39,6 +39,8 @@ Basically we take the image of the Certificate template and use simple image pro
 
 ## To Do
 - Adding a React Front End
-- NLP Analysis instead of simple image processing to support more certificate templates
+- NLP Analysis instead of sample image processing to support more certificate templates
 
 PS: I know that you can do this stuff using google slides, but with this you can desing the certificates using Photoshop, tbh i did this just as a practise projects, and yes it is one of the wiered 3 am ideas that got executed 🤣🤣 Cheers!!
+
+Left some typos here so expecing some PRs
