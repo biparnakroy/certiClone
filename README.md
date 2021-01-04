@@ -29,7 +29,7 @@ Basically we take the image of the Certificate template and use simple image pro
 
 ## Final Output
  ### Some Samples :
- <img src="assets/Arindam_Dey.png" width="200" height="200"><img src="assets/Arindam Halder.png" width="200" height="200"><img src="assets/ARINDAM MAJEE.png" width="200" height="200"><img src="assets/ARITRA CHATTERJEE.png" width="200" height="200"><img src="assets/Debargha Datta.png" width="200" height="200"><img src="assets/Debarghya Nandi.png" width="200" height="200">
+ <img src="assets/Arindam_Dey.png" width="200" height="200"><img src="assets/Arindam Halder.png" width="200" height="200"><img src="assets/ARINDAM MAJEE.png" width="200" height="200"><img src="assets/ARITRA CHATTERJEE.png" width="200" height="200"><img src="assets/Debargha Datta.png" width="200" height="200"><img src="assets/Debarghya Nandi.png" width="200" height="200"><img src="assets/Rishav Dhariwal.png" width="200" height="200"><img src="assets/Ritam Mondal.png" width="200" height="200">
 
  ### File Output.zip :
  <img src="assets/op.png" width="600" height="400">
